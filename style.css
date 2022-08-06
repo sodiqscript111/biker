@@ -457,7 +457,7 @@ grid-template-columns: 1fr 1fr;
         width: 89%;
     }
     .categories_right{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
     .courses_container{
         grid-template-columns: 1fr ;
@@ -465,15 +465,5 @@ grid-template-columns: 1fr 1fr;
 .house{
 grid-template-columns: 1fr;
 place-items: center;
-}
-.nav_menu{
-position: absolute;
-right: 15%;
-width: 70%;
-
-}
-.nav_menu li{
-position: relative;
-height: 70%;
 }
 }
